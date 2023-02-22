@@ -1,0 +1,4 @@
+-mengikuti bootcamp
+-belajar backend
+-menguasai salah satu bhs Javascript/PHP tapi harus bisa dua"nya
+-mengusai node.js/laravel dengan bailk
